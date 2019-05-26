@@ -1,7 +1,7 @@
 const matrix2D = [[1, 2, 3], [20, 25, 30], [33, 38, 49], [50, 53, 57]]
 
 /**
- * One dimension binarySearch
+ * One dimension binary-search
  *
  * @param {Array} array
  * @param {number} number
