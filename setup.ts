@@ -5,7 +5,7 @@ import * as dir from "node-dir"
 // let files = fs.readdirSync(`${__dirname}/exercises`)
 // files.forEach(fileName => {
 //   const [number] = fileName.match(/\d+/) ? fileName.match(/\d+/) : [undefined]
-//   const savePath = `src/exercise-${number}/solution.ts`
+//   const savePath = `src/exercise-${number}/function-solution.ts`
 //   const content = fs.readFileSync(`${__dirname}/exercises/${fileName}`, {
 //     encoding: "utf-8",
 //   })
@@ -19,7 +19,7 @@ import * as dir from "node-dir"
 // files = fs.readdirSync(`${__dirname}/src/`)
 // const BASE_DIR = "src"
 // files.forEach(fileName => {
-//   let file = `${BASE_DIR}/${fileName}/solution.ts`
+//   let file = `${BASE_DIR}/${fileName}/function-solution.ts`
 //   let content = fs.readFileSync(file, {
 //     encoding: "utf-8",
 //   })
