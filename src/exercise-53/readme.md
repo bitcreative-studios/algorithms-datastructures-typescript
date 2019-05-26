@@ -1,0 +1,4 @@
+## Exercise
+
+Smallest possible sum
+
