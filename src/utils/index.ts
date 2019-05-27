@@ -3,7 +3,8 @@
 
 export interface LinkNode {
   value: any
-  next: LinkNode
+  next: LinkNode | undefined
+  prev: LinkNode | undefined
 }
 /**
  * Create a linked list of n items with max valeue `maxValue`
